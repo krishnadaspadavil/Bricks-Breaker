@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/YOUR_GAMEPLAY_VIDEO_LINK
 
 | Paddle | Ball | Winning Panel |
 |--------|------|--------------|
-| ![Paddle](Screenshot 2026-01-05 153703.png) | ![Ball](ball.png) | ![Winning Panel](win-panel.png) |
+| (https://github.com/krishnadaspadavil/Bricks-Breaker/blob/main/Screenshot%202026-01-05%20153703.png) | ![Ball](ball.png) | ![Winning Panel](win-panel.png) |
 
 ---
 
