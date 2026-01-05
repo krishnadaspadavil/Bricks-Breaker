@@ -6,7 +6,7 @@ A classic **2D Brick Breaker game** built using **Unity 6 and C#**, showcasing g
 
 ## 🎮 Gameplay Preview
 
-Untitled video - Made with Clipchamp.mp4
+https://youtu.be/qRM_b8nUEX0
 
 ---
 
