@@ -16,6 +16,10 @@ https://youtu.be/qRM_b8nUEX0
 |--------|
 |  ![Paddle&Ball](Screenshot%202026-01-05%20153703.png) | 
 
+| GameUI | 
+|--------|
+|  ![Paddle&Ball](Screenshot%202026-01-05%20153703.png) | 
+
 ---
 
 ## ✨ Features
@@ -27,7 +31,7 @@ https://youtu.be/qRM_b8nUEX0
 - Score tracking system
 - **VFX & SFX for brick hits**
 - Win & Game Over UI Panels
-- Portfolio-ready structured project
+
 
 ---
 
