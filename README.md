@@ -18,7 +18,7 @@ https://youtu.be/qRM_b8nUEX0
 
 | GameUI | 
 |--------|
-|  ![Paddle&Ball](Screenshot%202026-01-05%20153703.png) | 
+|  ![Paddle&Ball](photo_2026-03-29_20-38-37.jpg) | 
 
 ---
 
